@@ -1,4 +1,10 @@
 # Smockchain
+
+Made at a CAI hackathon using ALTR's ChainAPI
+this ran this on a local LAMP sever.
+
+TODO: sort out file upload process
+
 Blockchain for the arts /// Blockchain for the soul /// Blockchain for the discerning anonymous artist who wants to win internet comment arguments
 
 documentation
